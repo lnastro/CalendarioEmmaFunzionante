@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="1" hostname="codinlap198" id="0" name="TestWhiteBox" package="" skipped="0" tests="9" time="0.13" timestamp="2017-03-08T16:06:29">
+      <properties>
+          <property name="java.vendor" value="Oracle Corporation" />
+
+          <property name="src.test.dir" value="C:\Users\lnastro\Desktop\CalendarioEmma\test" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="emma.filter" value="" />
+
+          <property name="os.name" value="Windows 10" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_121\jre\classes" />
+
+          <property name="ant.file.type.TestTT" value="file" />
+
+          <property name="report" value="C:\Users\lnastro\Desktop\CalendarioEmma\junit-report" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="ant.home" value="C:\Program Files\Apache Software Foundation\apache-ant-1.10.1-bin\apache-ant-1.10.1" />
+
+          <property name="java.runtime.version" value="1.8.0_121-b13" />
+
+          <property name="src.java.dir" value="C:\Users\lnastro\Desktop\CalendarioEmma\src" />
+
+          <property name="user.name" value="lnastro" />
+
+          <property name="test.classes.dir" value="C:\Users\lnastro\Desktop\CalendarioEmma\bin\test\classes" />
+
+          <property name="user.language" value="it" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin" />
+
+          <property name="ant.project.default-target" value="all" />
+
+          <property name="ant.project.name" value="TestTT" />
+
+          <property name="java.version" value="1.8.0_121" />
+
+          <property name="emma.final.reports.des" value="C:\Users\lnastro\Desktop\CalendarioEmma/EmmaFinalReport" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="bin" value="C:\Users\lnastro\Desktop\CalendarioEmma\bin" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="emma.coverage.out.file" value="C:\Users\lnastro\Desktop\CalendarioEmma/reports/emma/coverage.emma" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="amd64" />
+
+          <property name="sun.jnu.encoding" value="Cp1252" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="classes.dir" value="C:\Users\lnastro\Desktop\CalendarioEmma\bin\classes" />
+
+          <property name="java.class.version" value="52.0" />
+
+          <property name="user.country" value="IT" />
+
+          <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_121\jre" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="ant.file" value="C:\Users\lnastro\Desktop\CalendarioEmma\build.xml" />
+
+          <property name="os.version" value="10.0" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="25.121-b13" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="C:\Program Files\Apache Software Foundation\apache-ant-1.10.1-bin\apache-ant-1.10.1\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="sun.stdout.encoding" value="cp850" />
+
+          <property name="user.script" value="" />
+
+          <property name="coverage.dir" value="C:\Users\lnastro\Desktop\CalendarioEmma/reports/emma" />
+
+          <property name="user.home" value="C:\Users\lnastro" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Java\jdk1.6.0_45\bin\;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;C:\Users\lnastro\junit;C:\Program Files\Apache Software Foundation\apache-ant-1.10.1-bin\apache-ant-1.10.1\bin;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files\CodeCover\codecover-batch-1.0;C:\Program Files\CodeCover\codecover-batch-1.0\lib;C:\Users\lnastro\AppData\Local\Microsoft\WindowsApps;;." />
+
+          <property name="java.vendor.url" value="http://java.oracle.com/" />
+
+          <property name="java.vm.vendor" value="Oracle Corporation" />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner TestWhiteBox skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\lnastro\Desktop\CalendarioEmma\junit-report\TEST-TestWhiteBox.xml crashfile=C:\Users\lnastro\Desktop\CalendarioEmma\junitvmwatcher501751043647111936.properties propsfile=C:\Users\lnastro\Desktop\CalendarioEmma\junit1255776978253269793.properties" />
+
+          <property name="java.class.path" value="C:\Users\lnastro\Desktop\CalendarioEmma\target\emmainstr;C:\Users\lnastro\Desktop\CalendarioEmma\bin\test\classes;C:\Users\lnastro\Desktop\CalendarioEmma\lib\junit-4.12.jar;C:\Users\lnastro\Desktop\CalendarioEmma\lib\hamcrest-core-1.3.jar;C:\Users\lnastro\Desktop\CalendarioEmma\lib\emma\emma.jar;C:\Users\lnastro\Desktop\CalendarioEmma\lib\emma\emma_ant.jar;C:\Program Files\Apache Software Foundation\apache-ant-1.10.1-bin\apache-ant-1.10.1\lib\ant-launcher.jar;C:\Program Files\Apache Software Foundation\apache-ant-1.10.1-bin\apache-ant-1.10.1\lib\ant.jar;C:\Program Files\Apache Software Foundation\apache-ant-1.10.1-bin\apache-ant-1.10.1\lib\ant-junit.jar;C:\Program Files\Apache Software Foundation\apache-ant-1.10.1-bin\apache-ant-1.10.1\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.10.1 compiled on February 2 2017" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="ant.file.type" value="file" />
+
+          <property name="java.vm.specification.version" value="1.8" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="java.io.tmpdir" value="C:\Users\lnastro\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+
+          <property name="ant.file.TestTT" value="C:\Users\lnastro\Desktop\CalendarioEmma\build.xml" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="C:\Users\lnastro\Desktop\CalendarioEmma" />
+
+          <property name="emma.coverage.out.merge" value="false" />
+
+          <property name="emma.dir" value="C:\Users\lnastro\Desktop\CalendarioEmma/lib/emma" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+
+          <property name="basedir" value="C:\Users\lnastro\Desktop\CalendarioEmma" />
+
+          <property name="ant.java.version" value="1.8" />
+
+          <property name="ant.core.lib" value="C:\Program Files\Apache Software Foundation\apache-ant-1.10.1-bin\apache-ant-1.10.1\lib\ant.jar" />
+
+          <property name="emma.enabled" value="true" />
+
+          <property name="file.encoding" value="Cp1252" />
+
+          <property name="sun.stderr.encoding" value="cp850" />
+
+          <property name="java.specification.version" value="1.8" />
+
+          <property name="src.dir" value="C:\Users\lnastro\Desktop\CalendarioEmma" />
+
+          <property name="ant.project.invoked-targets" value="all" />
+
+          <property name="full-compile" value="true" />
+
+          <property name="instr.dir" value="C:\Users\lnastro\Desktop\CalendarioEmma/target/emmainstr" />
+
+      </properties>
+
+      <testcase classname="TestWhiteBox" name="testCalendWB1" time="0.031">
+          <failure message="expected:&lt;Sabat[o]&gt; but was:&lt;Sabat[]&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;Sabat[o]&gt; but was:&lt;Sabat[]&gt;
+	at TestWhiteBox.testCalendWB1(Unknown Source)
+</failure>
+
+      </testcase>
+
+      <testcase classname="TestWhiteBox" name="testCalendWB2" time="0.0" />
+
+      <testcase classname="TestWhiteBox" name="testCalendWB3" time="0.0" />
+
+      <testcase classname="TestWhiteBox" name="testCalendWB4" time="0.0" />
+
+      <testcase classname="TestWhiteBox" name="testCalendWB5" time="0.0" />
+
+      <testcase classname="TestWhiteBox" name="testCalendWB6" time="0.0" />
+
+      <testcase classname="TestWhiteBox" name="testCalendWB7" time="0.0" />
+
+      <testcase classname="TestWhiteBox" name="testCalendWB8" time="0.0" />
+
+      <testcase classname="TestWhiteBox" name="testCalendWB9" time="0.0" />
+
+      <system-out><![CDATA[EMMA: collecting runtime coverage data ...
+]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+</testsuites>
